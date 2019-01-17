@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+# sales
+Curso do OneBitCode - Criando um sistema Administrativo Completo com Rails Admin
+
